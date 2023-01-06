@@ -80,6 +80,19 @@ nav a:hover, nav a:focus {
     color: antiquewhite;
 }
 
+/*footer*/
+footer {
+    height: 100%;
+}
+
+.social-networks {
+    text-align: center;
+    
+}
+
+.social-networks > li {
+    display: inline;
+}
 
 /* media queries */
 
