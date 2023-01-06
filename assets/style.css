@@ -1,10 +1,9 @@
-<!-- add google fonts -->
 
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color:color:rgb(169, 212, 169)
+    background-color:color: rgb(169, 212, 169)
 }
 
 li a {
@@ -20,6 +19,19 @@ header {
     padding: 30px 10%;
 }
 
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav-links li a:hover {
+    color: white;
+}
+
 body {
-    color:rgb(169, 212, 169)
+   background-color:rgb(169, 212, 169)
 }
