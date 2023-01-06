@@ -4,6 +4,81 @@
     margin: 0;
     padding: 0; }
     
-h1 {
-    color: grey;
+body {
+    background-color: rgb(167, 204, 167);
+    font-family: "coustard","heebo", sans-serif;
+    margin: 0;
 }
+
+h1 {
+    font-family: "coustard", cursive;
+    font-size: 2.5rem;
+    color: black;
+    margin: 0;
+}
+
+.subtitle, nav a {
+    font-size: 1.5rem;
+    color: black;
+    text-transform: uppercase;
+}
+
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container-nav {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    background-color: rgb(166, 190, 166);
+    padding: 0.8em, 0;
+    box-shadow: 2px 2px 2px #292a2b;
+}
+
+nav ul {
+    list-style: none; 
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-left: 2em;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:hover, nav a:focus {
+    color: antiquewhite;
+}
+
+
+
+/* media queries */
+
+@media (max-width: 640px) {
+    .container {
+        text-align: center;
+    }
+
+    .container-nav {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav li {
+        margin: 0.8em 0;
+    }
+    }
+}
+
