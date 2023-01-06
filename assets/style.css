@@ -10,6 +10,7 @@ body {
     margin: 0;
 }
 
+/* header and nav bar */
 h1 {
     font-family: "coustard", cursive;
     font-size: 2.5rem;
@@ -59,6 +60,25 @@ nav a:hover, nav a:focus {
     color: antiquewhite;
 }
 
+/* Hero Image */
+.hero {
+    display: flex;
+    flex-direction: column;
+    background-image: url(../assets/images/hero.jpg);
+    height: 100vh;
+    align-self: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    font-size: 1.4em;
+    text-align: right;
+    color: antiquewhite;
+}
 
 
 /* media queries */
@@ -80,5 +100,5 @@ nav a:hover, nav a:focus {
         margin: 0.8em 0;
     }
     }
-}
+
 
