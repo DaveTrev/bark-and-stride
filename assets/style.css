@@ -1,3 +1,25 @@
+<!-- add google fonts -->
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:color:rgb(169, 212, 169)
+}
+
+li a {
+    font-weight:500px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
 body {
     color:rgb(169, 212, 169)
 }
