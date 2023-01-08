@@ -81,6 +81,14 @@ text-align: right;
 color: antiquewhite;
 }
 
+/* Main Text */
+.main-text {  
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
 /*footer*/
 
 .container {
