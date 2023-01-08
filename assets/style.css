@@ -94,10 +94,11 @@ section {
 }
 
 #about h2 {
-    font-size: 200%;
+    font-size: 150%;
     font-family: "Coustard", sans-serif;
     text-align: center;
-    padding: 50px;
+    padding: 10px;
+    padding-top: 10px;
 }
 #about p {
     width: 500px;
@@ -127,6 +128,7 @@ section {
 }
 #about div {
     font-family: "heebo", sans-serif ;
+    padding-top: 10px;
     padding: 30px;
     text-align: center;
 }
@@ -143,7 +145,6 @@ h3 {
 
 #about h4 {
     display: flex;
-    justify-content: ;
     width: 500px;
     text-align: center;
     color: #fff;
