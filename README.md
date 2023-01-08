@@ -7,4 +7,8 @@ url paths in css https://css-tricks.com/forums/topic/image-path-css/
 grid layouts https://moderncss.dev/3-popular-website-heroes-created-with-css-grid-layout/
 grid layouts https://www.sitepoint.com/order-align-items-grid-layout/
 grid layouts - ideas for main text layout https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+grid layouts w3 schools https://www.w3schools.com/css/css_grid.asp
+grid layouts w3 schools: try it https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named
+https://www.w3schools.com/css/css_grid_container.asp
 when to use div or span https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.
+Better web typography https://css-tricks.com/six-tips-for-better-web-typography/

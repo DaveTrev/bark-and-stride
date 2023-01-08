@@ -79,15 +79,24 @@ nav a:hover, nav a:focus {
     font-size: 1.4em;
 text-align: right;
 color: antiquewhite;
+padding-bottom: 20px;
 }
 
 /* Main Text */
-.main-text {  
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-  grid-auto-rows: minmax(100px, auto);
+.main-text {
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+justify-content: center;
 }
+
+p {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+
 
 /*footer*/
 
