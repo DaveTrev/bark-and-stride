@@ -16,6 +16,10 @@ grid layout logic https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layo
 https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
 net ninja - https://www.youtube.com/watch?v=xPuYbmmPdEM video building layouts with css
 
+creating a responsive gallery with flexbox css
+https://blog.logrocket.com/responsive-image-gallery-css-flexbox/
+use as template
+
 
 
 
