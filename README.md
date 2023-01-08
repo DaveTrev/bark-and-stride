@@ -27,3 +27,4 @@ using flexbox to create both navbar and footer.
 
 trying to create main paragraphs with grid but failing to arrange in the manner i want 
 will change to flex box to see if i can arrange as i want
+used this codepen code to align index.html text https://codepen.io/egf/pen/mVxLaV
