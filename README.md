@@ -18,17 +18,23 @@ net ninja - https://www.youtube.com/watch?v=xPuYbmmPdEM video building layouts w
 
 creating a responsive gallery with flexbox css
 https://blog.logrocket.com/responsive-image-gallery-css-flexbox/
-use as template
+use as template for gallery
+
+further reading on design
+https://blog.logrocket.com/flexbox-vs-css-grid/
 
 
 
 
 bugs / problems
-orgiginally started the project as madra maith
+orgiginally started the project as madra maith, 
 struggled with adding flex to code written with float
-restarted project with a restart as bark and stride
+restarted project with a restart as bark and stride as a clean slate to start coding again and not confuse myself with what i had written.
 using flexbox to create both navbar and footer.
 
 trying to create main paragraphs with grid but failing to arrange in the manner i want 
 will change to flex box to see if i can arrange as i want
 used this codepen code to align index.html text https://codepen.io/egf/pen/mVxLaV
+Really unhappy with the layout as its not what i have in mind but hopefully i can return to fix.
+
+media queries for very small screens causing isses, gaps appearing in the site and areas not aligning. hero image shrinking but not centered
