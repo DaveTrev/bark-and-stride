@@ -54,3 +54,6 @@ Started building site as desktop as apposed to mobile first then out to tablet a
 next project I will start with nobile first design and work out. 
 this project i do not have enough time to fix this issue
 media queries for very small screens causing isses, gaps appearing in the site and areas not aligning. hero image shrinking but not centered
+
+used unordered lists to create image gallery, tried to use text decortation:none, barking up the wrong tree, googled removing bullet points used ul style= liststlye:none; to remove.
+if i could figure out how to remove i had planned to change gallery around DIVS 
