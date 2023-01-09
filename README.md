@@ -24,6 +24,12 @@ creating a responsive form with flex box links
 https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
 https://codepen.io/eljaouhari/pen/GqWGBJ
 
+https://medium.com/swlh/how-i-create-a-contact-us-form-using-flexbox-b9f6660d4c96
+
+creating a responsive contact form
+https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
+https://softauthor.com/css-flexbox-responsive-registration-form-with-source-code/
+
 further reading on design
 https://blog.logrocket.com/flexbox-vs-css-grid/
 
@@ -41,4 +47,7 @@ will change to flex box to see if i can arrange as i want
 used this codepen code to align index.html text https://codepen.io/egf/pen/mVxLaV
 Really unhappy with the layout as its not what i have in mind but hopefully i can return to fix.
 
+Started building site as desktop as apposed to mobile first then out to tablet and desktop.
+next project I will start with nobile first design and work out. 
+this project i do not have enough time to fix this issue
 media queries for very small screens causing isses, gaps appearing in the site and areas not aligning. hero image shrinking but not centered
