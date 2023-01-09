@@ -33,6 +33,9 @@ https://softauthor.com/css-flexbox-responsive-registration-form-with-source-code
 further reading on design
 https://blog.logrocket.com/flexbox-vs-css-grid/
 
+further reading on media queries
+https://www.quackit.com/css/flexbox/tutorial/create_a_responsive_flexbox_layout.cfm
+
 
 
 
