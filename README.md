@@ -20,6 +20,10 @@ creating a responsive gallery with flexbox css
 https://blog.logrocket.com/responsive-image-gallery-css-flexbox/
 use as template for gallery
 
+creating a responsive form with flex box links
+https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
+https://codepen.io/eljaouhari/pen/GqWGBJ
+
 further reading on design
 https://blog.logrocket.com/flexbox-vs-css-grid/
 
