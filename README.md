@@ -36,6 +36,14 @@ https://blog.logrocket.com/flexbox-vs-css-grid/
 further reading on media queries
 https://www.quackit.com/css/flexbox/tutorial/create_a_responsive_flexbox_layout.cfm
 
+removing bullet points from ul
+https://www.computerhope.com/issues/ch001704.htm#:~:text=Adding%20the%20%22list%2Dstyle%3A,removes%20any%20bullet%20or%20number.
+w3 schools css styling lists
+https://www.w3schools.com/css/css_list.asp
+
+redirecting submit button to another webpage
+https://programminghead.com/submit-button-redirect-to-another-page-in-html
+
 
 
 
@@ -57,3 +65,5 @@ media queries for very small screens causing isses, gaps appearing in the site a
 
 used unordered lists to create image gallery, tried to use text decortation:none, barking up the wrong tree, googled removing bullet points used ul style= liststlye:none; to remove.
 if i could figure out how to remove i had planned to change gallery around DIVS 
+
+For the purpose of the project, I am going to direct the submit button to the code insitute web page
