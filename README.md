@@ -16,6 +16,7 @@ grid layout logic https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layo
 https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
 net ninja - https://www.youtube.com/watch?v=xPuYbmmPdEM video building layouts with css
 
+ *** possible use modernizr to help with ie browser support ***
 creating a responsive gallery with flexbox css
 https://blog.logrocket.com/responsive-image-gallery-css-flexbox/
 use as template for gallery
@@ -69,13 +70,13 @@ if i could figure out how to remove i had planned to change gallery around DIVS
 For the purpose of the project, I am going to direct the submit button to the code insitute web page
 
 
-# Love Running
+# Bark & Stride
+Bark & stride is a site that hopes to build up a small business for a local dog walker in the North County Dublin region.
+The site will be targeted towards local dog owners who are looking for a way to keep their dog active, social or trained.
+Offering a wide range of services for the dog owner who may be short on time. 
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+******
+![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png) ***** need to add mockup
 
 ## Features 
 
