@@ -76,20 +76,24 @@ nav a:hover, nav a:focus {
     justify-content: center;
 }
 
-.text {
+#text {
     font-size: 1.4em;
 text-align: right;
 color: antiquewhite;
 padding-bottom: 20px;
+padding-left: 60px;
 }
 
 /* Main Text */
 #about {
-    background-color: rgb(134, 134, 134);
     min-height: 500px;
     width:100%;
+    color: #292a2b;
 }
-
+#title {
+    padding-top: 100px;
+    
+}
 section {
     display: block;
 }
@@ -239,6 +243,7 @@ footer a:hover, footer a:focus {
     color: #fff;
     font-weight: 400;
   }
+
 #here {
     text-align: center;
     flex: auto;
