@@ -8,7 +8,7 @@ html body {
     background-color: rgb(167, 204, 167);
     font-family: "coustard","heebo", sans-serif;
     margin: 0;
-    height: 100%;
+    min-height: 100vh;
 }
 
 /* header and nav bar */
@@ -86,7 +86,7 @@ padding-bottom: 20px;
 /* Main Text */
 #about {
     background-color: rgb(134, 134, 134);
-    min-height: 400px;
+    min-height: 500px;
     width:100%;
 }
 
@@ -184,6 +184,7 @@ footer ul {
 
 footer li {
     margin-left: 2em;
+    color: black;
 }
 
 footer a {
@@ -233,11 +234,16 @@ footer a:hover, footer a:focus {
     display:flex;
     justify-content:center;
     align-items: center;
-    width: 500px;
+    width: 300px;
     text-align: center;
     color: #fff;
     font-weight: 400;
   }
+#here {
+    text-align: center;
+    flex: auto;
+}
+
 
   #container {
     display: flex;
@@ -314,12 +320,7 @@ footer a:hover, footer a:focus {
     outline: none;
     cursor: pointer;
   }
-  @media screen and (min-width: 481px) {
-    .two-columns {
-      grid-template-columns: 48.7804878% 48.7804878%;
-      grid-column-gap: 2.43902439%;
-    }
-  }
+ 
 
 
 
@@ -342,5 +343,12 @@ footer a:hover, footer a:focus {
         margin: 0.8em 0;
     }
     }
+
+    @media screen and (min-width: 481px) {
+        .two-columns {
+          grid-template-columns: 48.7804878% 48.7804878%;
+          grid-column-gap: 2.43902439%;
+        }
+      }
 
 
