@@ -1,4 +1,5 @@
 Resources used
+HERO IMAGE https://unsplash.com/photos/xN9mx1eJRDI
 Nav bar flexbox tutorial https://adiati.com/how-to-create-a-responsive-navigation-bar-with-flexbox-and-media-queries
 codepen hero image guide for flexbox https://codepen.io/njericooper/pen/NVRQLe
 responsive hero image guide flex layout https://nicolaslule.com/responsive-full-width-hero-image-using-flex/
