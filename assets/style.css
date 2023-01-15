@@ -237,6 +237,18 @@ footer a:hover, footer a:focus {
     justify-content: center;
   }
 
+  #review-title {
+    display:flex;
+    justify-content:space-evenly;
+
+  }
+
+  .review {
+    width: fit-content;
+    list-style: none;
+    text-align: center;
+  }
+
   /* contact us page ---  taken from https://plantpot.works/2827 */
 
   .contact-text {
