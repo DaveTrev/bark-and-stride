@@ -240,13 +240,15 @@ footer a:hover, footer a:focus {
   #review-title {
     display:flex;
     justify-content:space-evenly;
-
+    padding-top: 30px;
   }
 
   .review {
     width: fit-content;
     list-style: none;
     text-align: center;
+    margin: 10px;
+    
   }
 
   /* contact us page ---  taken from https://plantpot.works/2827 */
