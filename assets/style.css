@@ -253,6 +253,13 @@ footer a:hover, footer a:focus {
 
   /* contact us page ---  taken from https://plantpot.works/2827 */
 
+  #contact-text {
+    display:flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
   .contact-text {
     display:flex;
     justify-content:center;
@@ -264,10 +271,18 @@ footer a:hover, footer a:focus {
   }
 
 #here {
-    text-align: center;
     flex: auto;
+    width: fit-content;
+    text-align: center;
 }
 
+#sleeping {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    border-radius: 50%;
+}
 
   #container {
     display: flex;
