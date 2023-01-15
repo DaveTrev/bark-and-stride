@@ -232,6 +232,11 @@ footer a:hover, footer a:focus {
     text-decoration: none;
   } 
 
+  #gallery-title {
+    display: flex;
+    justify-content: center;
+  }
+
   /* contact us page ---  taken from https://plantpot.works/2827 */
 
   .contact-text {
