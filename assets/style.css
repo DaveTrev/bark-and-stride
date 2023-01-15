@@ -251,38 +251,59 @@ footer a:hover, footer a:focus {
     
   }
 
-  /* contact us page ---  taken from https://plantpot.works/2827 */
+  /* contact us form ---  taken from https://plantpot.works/2827 */
 
-  #contact-text {
-    display:flex;
-    justify-content: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
+  /* used https://codepen.io/paulobrien/pen/baobra as a guide to align flexbox row */
 
   .contact-text {
-    display:flex;
-    justify-content:center;
-    align-items: center;
-    width: 300px;
-    text-align: center;
-    color: #fff;
-    font-weight: 400;
+    text-align: justify;
   }
 
-#here {
-    flex: auto;
-    width: fit-content;
-    text-align: center;
-}
-
-#sleeping {
+  .contact-row {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 20px;
-    border-radius: 50%;
-}
+	justify-content:space-around;
+	padding:25px 0 ;
+	max-width:1280px;
+	margin:auto;
+  }
+
+  .p3 {
+    flex: 0 0 45%;
+  }
+
+  .p3 p {
+    margin:0;
+    padding:10px;
+  }
+
+  .image-sleeping {
+    overflow:hidden;
+	position:relative;
+  }
+
+  .image-sleeping img {
+    position: absolute;
+	top:50%;
+	left:50%;
+	height:auto;
+	width:auto;
+	min-width:100%;
+	min-height:100%;
+	transform:translate(-50%, -50%);
+    border-radius: 30%;
+  }
+
+  @supports (object-fit: cover) {
+    .object-fit img  {
+      position: absolute;
+      left:0;
+      top:0;
+      height: 100%;
+      width: 100%;
+      transform: none;
+      object-fit: cover;
+    }
+  }
 
   #container {
     display: flex;
