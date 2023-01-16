@@ -26,6 +26,10 @@ nav a {
     text-transform: uppercase;
 }
 
+.active{
+  text-decoration: underline;
+}
+
 .container {
     width: 90%;
     max-width: 900px;
@@ -74,14 +78,19 @@ nav a:hover, nav a:focus {
     background-attachment: fixed;
     align-items: center;
     justify-content: center;
+    position: relative;
 }
 
 #text {
-    font-size: 1.4em;
-text-align: right;
-color: antiquewhite;
-padding-bottom: 20px;
-padding-left: 60px;
+  background-color: black;
+  color: rgb(246, 218, 182);
+  /* background: beige; */
+  background: #00000085;
+  position: absolute;
+  bottom: 20%;
+  right: 10%;
+  text-align: center;
+  padding: 45px;
 }
 
 /* Main Text */
@@ -277,20 +286,15 @@ footer a:hover, footer a:focus {
   }
 
   .image-sleeping {
-    overflow:hidden;
-	position:relative;
+  
   }
 
   .image-sleeping img {
-    position: absolute;
-	top:50%;
-	left:50%;
-	height:auto;
-	width:auto;
-	min-width:100%;
-	min-height:100%;
-	transform:translate(-50%, -50%);
-    border-radius: 30%;
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    object-fit: cover;
   }
 
   @supports (object-fit: cover) {
