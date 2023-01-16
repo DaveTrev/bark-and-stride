@@ -413,6 +413,18 @@ footer a:hover, footer a:focus {
       flex-direction: column;
     }
 
+    .p3 {
+      flex-direction: column;
+    }
+
+    .p3 p {
+      flex-direction: column;
+    }
+
+    .contact-row {
+      flex-direction: column;
+    }
+
     }
 
     @media screen and (min-width: 481px) {
