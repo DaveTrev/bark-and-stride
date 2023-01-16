@@ -394,7 +394,9 @@ footer a:hover, footer a:focus {
     .container-nav {
         flex-direction: column;
     }
-
+    .container-footer {
+  flex-direction: column;
+  }
     nav ul {
         flex-direction: column;
     }
@@ -402,6 +404,15 @@ footer a:hover, footer a:focus {
     nav li {
         margin: 0.8em 0;
     }
+
+    footer ul {
+      flex-direction: column;
+    }
+
+    footer ul {
+      flex-direction: column;
+    }
+
     }
 
     @media screen and (min-width: 481px) {
