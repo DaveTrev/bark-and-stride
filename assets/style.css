@@ -107,6 +107,10 @@ section {
     display: block;
 }
 
+#main-text {
+  flex-direction: column;
+}
+
 #about h2 {
     font-size: 150%;
     font-family: "Coustard", sans-serif;
@@ -140,6 +144,7 @@ section {
 	max-width: 1180px;
 	margin: 50px auto 20px;
 }
+
 #about div {
     font-family: "heebo", sans-serif ;
     padding-top: 10px;
@@ -268,6 +273,10 @@ footer a:hover, footer a:focus {
     text-align: justify;
   }
 
+  #title {
+    padding-top: 100px;
+    padding-left: 10px;
+}
   .contact-row {
     display: flex;
 	justify-content:space-around;
@@ -285,9 +294,7 @@ footer a:hover, footer a:focus {
     padding:10px;
   }
 
-  .image-sleeping {
   
-  }
 
   .image-sleeping img {
     height: 100%;
@@ -297,17 +304,7 @@ footer a:hover, footer a:focus {
     object-fit: cover;
   }
 
-  @supports (object-fit: cover) {
-    .object-fit img  {
-      position: absolute;
-      left:0;
-      top:0;
-      height: 100%;
-      width: 100%;
-      transform: none;
-      object-fit: cover;
-    }
-  }
+  
 
   #container {
     display: flex;
@@ -410,12 +407,10 @@ footer a:hover, footer a:focus {
     }
 
     footer ul {
-      flex-direction: column;
+        flex-direction: column;
+        padding-right: 30px;
     }
 
-    footer ul {
-      flex-direction: column;
-    }
 
     .p3 {
       flex-direction: column;
@@ -438,4 +433,15 @@ footer a:hover, footer a:focus {
         }
       }
 
+      @supports (object-fit: cover) {
+        .object-fit img  {
+          position: absolute;
+          left:0;
+          top:0;
+          height: 100%;
+          width: 100%;
+          transform: none;
+          object-fit: cover;
+        }
+      }
 
