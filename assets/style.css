@@ -295,8 +295,6 @@ footer a:hover, footer a:focus {
     padding:10px;
   }
 
-  
-
   .image-sleeping img {
     height: 100%;
     width: 90%;
@@ -304,8 +302,6 @@ footer a:hover, footer a:focus {
     display: flex;
     object-fit: cover;
   }
-
-  
 
   #container {
     display: flex;
@@ -317,6 +313,7 @@ footer a:hover, footer a:focus {
     min-height: 600px;
     padding: 20px;
   }
+
   .form-box {
     width: 100%;
     max-width: 400px;
@@ -324,11 +321,13 @@ footer a:hover, footer a:focus {
     border-radius: 4px;
     background-color: #fff;
   }
+
   .c-form {
     display: flex;
     flex-direction: column;
     width: 100%;
   }
+
   .c-form-label {
     display: inline-block;
     margin: .5rem 0;
@@ -336,6 +335,7 @@ footer a:hover, footer a:focus {
     letter-spacing: .2px;
     font-size: 1rem;
   }
+
   .c-form-input {
     width: 100%;
     padding: 15px 10px;
@@ -345,13 +345,16 @@ footer a:hover, footer a:focus {
     color: #3d3935;
     outline: 0;
   }
+
   .c-form-input::placeholder {
     color: #867d6c;
     font-size: 1rem;
   }
+
   .c-form-required {
     color: #b0092d;
   }
+
   textarea.c-form-input {
     width: 100%;
     min-height: 10ch;
@@ -359,15 +362,18 @@ footer a:hover, footer a:focus {
     padding: 10px;
     resize: none;
   }
+
   .two-columns {
     display: grid;
     grid-template-columns: 100%;
   }
+
   fieldset {
     margin: .4rem 0;
     padding: 0;
     border: none;
   }
+  
   .c-form-btn {
     width: 100%;
     margin-top: 10px;
@@ -408,7 +414,6 @@ footer a:hover, footer a:focus {
     }
 
     footer ul {
-        flex-direction: column;
         padding-right: 30px;
     }
 
