@@ -95,7 +95,10 @@ nav a:hover, nav a:focus {
 
 /* Main Text */
 
-
+.index-title {
+  padding-top: 100px;
+  padding-left: 50px;
+}
 
 
 /*footer*/
