@@ -94,81 +94,9 @@ nav a:hover, nav a:focus {
 }
 
 /* Main Text */
-#about {
-    min-height: 500px;
-    width:100%;
-    color: #292a2b;
-}
-#title {
-    padding-top: 100px;
-    
-}
-section {
-    display: block;
-}
 
-#main-text {
-  flex-direction: column;
-}
 
-#about h2 {
-    font-size: 150%;
-    font-family: "Coustard", sans-serif;
-    text-align: center;
-    padding: 10px;
-    padding-top: 10px;
-}
-#about p {
-    width: 500px;
-    text-align: center;
-    color: #fff;
-    font-weight: 400;}
 
-.one {
-    display: flex;
-	justify-content: space-between;
-	max-width: 1180px;
-	margin: 50px auto 20px;
-}
-
-.two { 
-    display: flex;
-	justify-content: space-between;
-	max-width: 1180px;
-	margin: 50px auto 20px;
-}
-
-.three {
-    display: flex;
-	justify-content: space-between;
-	max-width: 1180px;
-	margin: 50px auto 20px;
-}
-
-#about div {
-    font-family: "heebo", sans-serif ;
-    padding-top: 10px;
-    padding: 30px;
-    text-align: center;
-}
-
-h3 {
-    display: block;
-    font-size: 1.17em;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-}
-
-#about h4 {
-    display: flex;
-    width: 500px;
-    text-align: center;
-    color: #fff;
-    font-weight: 400;
-}
 
 /*footer*/
 
