@@ -180,13 +180,14 @@ footer a:hover, footer a:focus {
   #gallery-title {
     display: flex;
     justify-content: center;
+    padding-top: 60px;
   }
 
   #review-title {
     display:flex;
     text-align: center;
     justify-content:space-evenly;
-    padding-top: 30px;
+    padding-top: 80px;
   }
 
   .review {
