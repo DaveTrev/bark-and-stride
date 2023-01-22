@@ -321,6 +321,16 @@ footer a:hover, footer a:focus {
   }
  
 
+/* signed-up page */
+
+.submission-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 250px;
+  padding-bottom: 420px;
+}
 
 
 /* media queries */
