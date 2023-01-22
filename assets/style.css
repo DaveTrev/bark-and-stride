@@ -324,14 +324,16 @@ footer a:hover, footer a:focus {
 
 /* signed-up page */
 
-.submission-container {
+#submission-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
   flex-direction: column;
-  padding-top: 250px;
+  padding-top: 420px;
   padding-bottom: 420px;
 }
+
+
+
 
 
 /* media queries */
