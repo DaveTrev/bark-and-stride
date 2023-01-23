@@ -137,6 +137,7 @@ footer li {
 
 footer a {
     text-decoration: none;
+    color: black;
 }
 
 footer #copyright {
@@ -153,6 +154,11 @@ footer a:hover, footer a:focus {
 
 
 /* Gallery */
+
+h2 {
+  text-align: center;
+  padding-top: 3rem;
+}
 
 .image-gallery {
     display: flex;
@@ -186,7 +192,7 @@ footer a:hover, footer a:focus {
     display:flex;
     text-align: center;
     justify-content:space-evenly;
-    padding-top: 80px;
+    padding-top: 40px;
   }
 
   .review {
