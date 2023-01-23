@@ -75,7 +75,6 @@ nav a:hover, nav a:focus {
     align-self: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     align-items: center;
     justify-content: center;
     position: relative;
