@@ -6,9 +6,7 @@
  ****** 
  ![Responsive Mockup](assets/images/mockup-image/amiresponsive-day.png)
   
- ## Features  
-  
- In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things. 
+ ## Features   
   
  ### Existing Features 
   
@@ -17,7 +15,7 @@
    - Featuring on all three pages, a fullly responsive navigation bar. It includes a logo, links to the Home page, Gallery and Contact page. It is identical in each page to allow for easy navigation for the user.
    - This section allows each user to easiliy navigate from each page across all devices without having to revert back to the previous page via the 'back' button.  
   
- ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png) 
+ ![Nav Bar](assets/images/mockup-image/nav-bar.png) 
   
  - __The landing page image__ 
   
@@ -25,14 +23,14 @@
    - This section introduces the user to Bark & Stride with a large high impact image, grabbing the attention of dog owners.
    - the image is selected to create a connection with the users/customers and the service being offered
   
- ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png) 
+ ![Landing Page](assets/images/mockup-image/hero.png) 
   
  - __About Section__ 
   
    - The about section will allow the user to see the benefits of availing of the services of Bark & Stride, what services are offered and the areas covered
    - This user will see the value of contacting and availing of the service, to engage the dog owner with not just dog walking services but also the love of animals from the service but also trustworthiness.
   
- ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png) 
+ ![Index page / About section](assets/images/mockup-image/index-page-layout.png) 
   
    
  - __The Footer__  
@@ -41,30 +39,30 @@
    - The footer section includes links to the relevant social media sites for Bark & Stride. The links will open to a new tab to allow easy navigation for the user.  
    - The footer is valuable to the user as it encourages them to keep connected via social media
   
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png) 
+![Footer](assets/images/mockup-image/footer.png) 
   
  - __Gallery__ 
   
    - The gallery will provide the user with supporting images to see aspirational images of happy dogs on walks, as the business grows, I would plan to add testimonials of happy customers but also bios of staff and pups that use the service
    - At present, at the top of the gallery page, I have placed some simple tweet reviews from customers, again looking to build a connection for the buisness and their target market.
    - This section is valuable to the user as they can identify with what they want for their pet and can identify with the service offered
-   - I would like to add a section of "Favourite dogs" or "Dog of the month", highlighting happy dogs and little bios on each pet.
   
- ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png) 
+  
+ ![Gallery](assets/images/mockup-image/gallery.png) 
   
  - __The Contact Page__ 
   
    - This page will allow the user to contact the business owner to arrange walks for their dog and to send queries regarding the service.
   
- ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png) 
+ ![Sign Up](assets/images/mockup-image/contact.png) 
   
- For some/all of your features, you may choose to reference the specific project files that implement them. 
-  
- In addition, you may also use this section to discuss plans for additional features to be implemented in the future: 
+
   
  ### Features Left to Implement 
   
- - Another feature idea 
+ - On the gallery page I would like to add a section of "Favourite dogs" or "Dog of the month", highlighting happy dogs and little bios on each pet.
+ - Adding a map of nearby parks that are used.
+ - Adding video content of dogs engaged with the walker and the surrounding area via youtube links
   
  ## Testing  
   
