@@ -1,10 +1,10 @@
  # Bark & Stride 
  Bark & stride is a site that hopes to build up a small business for a local dog walker in the North County Dublin region. 
  The site will be targeted towards local dog owners who are looking for a way to keep their dog active, social or trained. 
- Offering a wide range of services for the dog owner who may be short on time.  
+ Offering a wide range of services for the dog owner who is short on time but want to give their pet the very best. 
   
  ****** 
- ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png) ***** need to add mockup 
+ ![Responsive Mockup](assets/images/mockup-image/amiresponsive-day.png)
   
  ## Features  
   
@@ -14,15 +14,16 @@
   
  - __Navigation Bar__ 
   
-   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and a Contact page and is identical in each page to allow for easy navigation. 
-   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.  
+   - Featuring on all three pages, a fullly responsive navigation bar. It includes a logo, links to the Home page, Gallery and Contact page. It is identical in each page to allow for easy navigation for the user.
+   - This section allows each user to easiliy navigate from each page across all devices without having to revert back to the previous page via the 'back' button.  
   
  ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png) 
   
  - __The landing page image__ 
   
-   - The landing includes a photograph with text overlay to allow the user to see a aspirational scene of a happy (tired) dog relaxing in a park/ forest scene.
+   - The landing includes a photograph with text overlay to allow the user to see a aspirational scene of a happy dog relaxing in a park/ forest scene.
    - This section introduces the user to Bark & Stride with a large high impact image, grabbing the attention of dog owners.
+   - the image is selected to create a connection with the users/customers and the service being offered
   
  ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png) 
   
@@ -36,15 +37,18 @@
    
  - __The Footer__  
   
+   - Featuring on all three pages, a fullly responsive footer navigation bar. It includes links to social media. It is identical in each page to allow for easy navigation for the user.  
    - The footer section includes links to the relevant social media sites for Bark & Stride. The links will open to a new tab to allow easy navigation for the user.  
-   - The footer is valuable to the user as it encourages them to keep connected via social media 
+   - The footer is valuable to the user as it encourages them to keep connected via social media
   
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png) 
   
  - __Gallery__ 
   
    - The gallery will provide the user with supporting images to see aspirational images of happy dogs on walks, as the business grows, I would plan to add testimonials of happy customers but also bios of staff and pups that use the service
+   - At present, at the top of the gallery page, I have placed some simple tweet reviews from customers, again looking to build a connection for the buisness and their target market.
    - This section is valuable to the user as they can identify with what they want for their pet and can identify with the service offered
+   - I would like to add a section of "Favourite dogs" or "Dog of the month", highlighting happy dogs and little bios on each pet.
   
  ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png) 
   
@@ -83,7 +87,7 @@
  ### Unfixed Bugs 
   
  While trying to build a website that is responsive across all devices, using the dimensions of a galaxy fold, the break point of 280 px in width would cause a gap on the right side of the screen. the image sizing and media queries need to address this.
- 
+
  The index page, I would like to have figured out a way to have the dog be the central focus of the photo across all devices, using flexbox, the image is shifting in place depending on the device used.   
   
  ## Deployment 
@@ -166,6 +170,9 @@ https://www.w3schools.com/css/css_list.asp
 redirecting submit button to another webpage
 https://programminghead.com/submit-button-redirect-to-another-page-in-html
 
+responsive mockups
+https://ui.dev/amiresponsive
+
 
 bugs / problems
 orgiginally started the project as madra maith, 
@@ -186,7 +193,7 @@ media queries for very small screens causing isses, gaps appearing in the site a
 used unordered lists to create image gallery, tried to use text decortation:none, barking up the wrong tree, googled removing bullet points used ul style= liststlye:none; to remove.
 if i could figure out how to remove i had planned to change gallery around DIVS 
 
-For the purpose of the project, I am going to direct the submit button to the code insitute web page
+
 
 
 
