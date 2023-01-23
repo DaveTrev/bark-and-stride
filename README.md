@@ -82,7 +82,9 @@
   
  ### Unfixed Bugs 
   
- You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.  
+ While trying to build a website that is responsive across all devices, using the dimensions of a galaxy fold, the break point of 280 px in width would cause a gap on the right side of the screen. the image sizing and media queries need to address this.
+ 
+ The index page, I would like to have figured out a way to have the dog be the central focus of the photo across all devices, using flexbox, the image is shifting in place depending on the device used.   
   
  ## Deployment 
   

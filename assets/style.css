@@ -81,10 +81,10 @@ nav a:hover, nav a:focus {
 }
 
 #text {
-  background-color: black;
+  /*background-color: black;
+  /* background: beige; 
+  background: #0000004f;*/
   color: rgb(246, 218, 182);
-  /* background: beige; */
-  background: #0000004f;
   position: absolute;
   bottom: 20%;
   right: 10%;
@@ -345,9 +345,11 @@ footer a:hover, footer a:focus {
     .container-nav {
         flex-direction: column;
     }
+
     .container-footer {
-  flex-direction: column;
-  }
+        flex-direction: column;
+    }
+
     nav ul {
         flex-direction: column;
     }
