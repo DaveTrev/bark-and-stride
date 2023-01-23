@@ -71,7 +71,7 @@ nav a:hover, nav a:focus {
     display: flex;
     flex-direction: column;
     background-image: url(../assets/images/hero.jpg);
-    height: 80vh;
+    height: 90vh;
     align-self: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -81,9 +81,6 @@ nav a:hover, nav a:focus {
 }
 
 #text {
-  /*background-color: black;
-  /* background: beige; 
-  background: #0000004f;*/
   color: rgb(246, 218, 182);
   position: absolute;
   bottom: 20%;
@@ -343,7 +340,7 @@ h2 {
 
 /* media queries */
 
-@media (max-width: 640px) {
+@media (max-width: 930px)  {
     .container {
         text-align: center;
     }
