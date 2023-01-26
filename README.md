@@ -73,6 +73,8 @@
    - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fdavetrev.github.io%2Fbark-and-stride%2F) 
  - CSS 
    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdavetrev.github.io%2Fbark-and-stride%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+ - 
   
  ### Unfixed Bugs 
   
@@ -99,7 +101,7 @@
   
  ### Content  
   
- - All content was written by myself but was inspired by a interaction with a local dog walker who inspired this project, other Dublin based dog walker websites I used for inspiration are as follows:
+ - All content was written by myself but was inspired by Dublin based dog walker websites, which I used for inspiration are as follows:
  - https://all-dogz-go-walkies.business.site/?utm_source=gmb&utm_medium=referral
  - https://www.dogwalking.ie/
  - https://www.borrowmydoggy.com/dogs-near-me/dublin
@@ -121,24 +123,7 @@
  - All images were taken from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/)
 
 
-bugs / problems
-orgiginally started the project as madra maith, 
-struggled with adding flex to code written with float
-restarted project with a restart as bark and stride as a clean slate to start coding again and not confuse myself with what i had written.
-using flexbox to create both navbar and footer.
 
-trying to create main paragraphs with grid but failing to arrange in the manner i want 
-will change to flex box to see if i can arrange as i want
-used this codepen code to align index.html text https://codepen.io/egf/pen/mVxLaV
-Really unhappy with the layout as its not what i have in mind but hopefully i can return to fix.
-
-Started building site as desktop as apposed to mobile first then out to tablet and desktop.
-next project I will start with nobile first design and work out. 
-this project i do not have enough time to fix this issue
-media queries for very small screens causing isses, gaps appearing in the site and areas not aligning. hero image shrinking but not centered
-
-used unordered lists to create image gallery, tried to use text decortation:none, barking up the wrong tree, googled removing bullet points used ul style= liststlye:none; to remove.
-if i could figure out how to remove i had planned to change gallery around DIVS 
 
 
 
