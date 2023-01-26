@@ -82,7 +82,8 @@ nav a:hover, nav a:focus {
 }
 
 #text {
-  color: rgb(246, 218, 182);
+  color: rgb(7, 7, 7);
+  font-weight: 300;
   position: absolute;
   bottom: 20%;
   text-align: center;

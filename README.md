@@ -66,111 +66,59 @@
  - Adding video content of dogs engaged with the walker and the surrounding area via youtube links
   
  ## Testing  
-  
- In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals. 
-  
- In addition, you should mention in this section how your project looks and works on different browsers and screen sizes. 
-  
- You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet. 
-  
- If this section grows too long, you may want to split it off into a separate file and link to it from here. 
-  
-  
+
  ### Validator Testing  
   
  - HTML 
-   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
+   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fdavetrev.github.io%2Fbark-and-stride%2F) 
  - CSS 
-   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css) 
+   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdavetrev.github.io%2Fbark-and-stride%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
   
  ### Unfixed Bugs 
   
  While trying to build a website that is responsive across all devices, using the dimensions of a galaxy fold, the break point of 280 px in width would cause a gap on the right side of the screen. the image sizing and media queries need to address this.
 
  The index page, I would like to have figured out a way to have the dog be the central focus of the photo across all devices, using flexbox, the image is shifting in place depending on the device used.   
+ I had originally built the site desktop first and in learning more about responsive design, I realise from the project outset, I should build mobile first and work out as it is easier to deal with issues in that manner. 
   
  ## Deployment 
   
- This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)  
+ - The website was deployed to Github pages. The steps to deploy are as follows:
+    - Login to Github and find the Github repository 'bark-and-stride'
+    - Click on the 'Settings' button at the top of the repository
+    - Click on 'Pages' on the left hand side navigation menu
+    - Select 'Deploy from a branch' under 'Source' if this is not already selected
+    - Under the 'Branch' drop down menus, select 'main' and 'root'
+    - Click 'Save'
+    - Once the page refreshes, the live link should appear underneath the 'Github Pages' title
   
- - The site was deployed to GitHub pages. The steps to deploy are as follows:  
-   - In the GitHub repository, navigate to the Settings tab  
-   - From the source section drop-down menu, select the Master Branch 
-   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.  
-  
- The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html  
+ The live link can be found here - https://davetrev.github.io/bark-and-stride/index.html 
   
   
  ## Credits  
   
- In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.  
-  
- You can break the credits section up into Content and Media, depending on what you have included in your project.  
-  
  ### Content  
   
- - The text for the Home page was taken from Wikipedia Article A 
- - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/) 
+ - All content was written by myself but was inspired by a interaction with a local dog walker who inspired this project, other Dublin based dog walker websites I used for inspiration are as follows:
+ - https://all-dogz-go-walkies.business.site/?utm_source=gmb&utm_medium=referral
+ - https://www.dogwalking.ie/
+ - https://www.borrowmydoggy.com/dogs-near-me/dublin
+ - http://www.pawfit.ie/
+
+ - As a guide to learning flexbox and building layouts with css, I used the youtube video series from [Netninja] (https://www.youtube.com/watch?v=xPuYbmmPdEM)
+ - Building a responsive contact form was taken from / used as a follow along guide [Plant pot works blog](https://plantpot.works/2827) 
+ - Used a example of a flexbox design incorporating text and images helped build the index page and contact page format [Codepen](https://codepen.io/paulobrien/pen/baobra)
+ - For a flexbox designed image gallery I used the following as a example [Logrocket blog](https://blog.logrocket.com/responsive-image-gallery-css-flexbox/)
+ - As a guide to building up a responsive hero image the following links were used to learn how to use flex box [Codepen](https://codepen.io/njericooper/pen/NVRQLe) 
+ - (https://nicolaslule.com/responsive-full-width-hero-image-using-flex/) 
+ - (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
+ - Using the follwoing guide to help create a responsive navigation bar and using the lessons learned to create a responsive footer to match (https://adiati.com/how-to-create-a-responsive-navigation-bar-with-flexbox-and-media-queries)
  - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/) 
+ - Created responsive mockups with [amiresponsive] (https://ui.dev/amiresponsive)
   
  ### Media 
   
- - The photos used on the home and sign up page are from unsplash and pexels site 
- - The images used for the gallery page were taken from unsplash site
-
-
-
-
-Resources used
-HERO IMAGE https://unsplash.com/photos/xN9mx1eJRDI
-Nav bar flexbox tutorial https://adiati.com/how-to-create-a-responsive-navigation-bar-with-flexbox-and-media-queries
-codepen hero image guide for flexbox https://codepen.io/njericooper/pen/NVRQLe
-responsive hero image guide flex layout https://nicolaslule.com/responsive-full-width-hero-image-using-flex/
-aligning text in hero image container https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container
-url paths in css https://css-tricks.com/forums/topic/image-path-css/
-grid layouts https://moderncss.dev/3-popular-website-heroes-created-with-css-grid-layout/
-grid layouts https://www.sitepoint.com/order-align-items-grid-layout/
-grid layouts - ideas for main text layout https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-grid layouts w3 schools https://www.w3schools.com/css/css_grid.asp
-grid layouts w3 schools: try it https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_layout_named
-https://www.w3schools.com/css/css_grid_container.asp
-when to use div or span https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.
-Better web typography https://css-tricks.com/six-tips-for-better-web-typography/
-grid layout logic https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_Logical_Values_and_Writing_Modes
-https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
-net ninja - https://www.youtube.com/watch?v=xPuYbmmPdEM video building layouts with css
-
- *** possible use modernizr to help with ie browser support ***
-creating a responsive gallery with flexbox css
-https://blog.logrocket.com/responsive-image-gallery-css-flexbox/
-use as template for gallery
-
-creating a responsive form with flex box links
-https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
-https://codepen.io/eljaouhari/pen/GqWGBJ
-
-https://medium.com/swlh/how-i-create-a-contact-us-form-using-flexbox-b9f6660d4c96
-
-creating a responsive contact form
-https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
-https://softauthor.com/css-flexbox-responsive-registration-form-with-source-code/
-
-further reading on design
-https://blog.logrocket.com/flexbox-vs-css-grid/
-
-further reading on media queries
-https://www.quackit.com/css/flexbox/tutorial/create_a_responsive_flexbox_layout.cfm
-
-removing bullet points from ul
-https://www.computerhope.com/issues/ch001704.htm#:~:text=Adding%20the%20%22list%2Dstyle%3A,removes%20any%20bullet%20or%20number.
-w3 schools css styling lists
-https://www.w3schools.com/css/css_list.asp
-
-redirecting submit button to another webpage
-https://programminghead.com/submit-button-redirect-to-another-page-in-html
-
-responsive mockups
-https://ui.dev/amiresponsive
+ - All images were taken from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/)
 
 
 bugs / problems
