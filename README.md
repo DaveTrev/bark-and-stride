@@ -5,6 +5,7 @@
   
  ****** 
  ![Responsive Mockup](assets/images/mockup-image/amiresponsive-day.png)
+ [View the live site here] (https://davetrev.github.io/bark-and-stride/)
   
  ## Features   
   
