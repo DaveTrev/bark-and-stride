@@ -74,7 +74,24 @@
  - CSS 
    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdavetrev.github.io%2Fbark-and-stride%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
- - Lighthouse
+ - Lighthouse - the following are the results from testing the site with lighthouse (mobile and desktop)
+
+ ## Index page 
+ 
+ ![Desktop](assets/images/lighthouse-tests/index-page-lighthouse.png) 
+ 
+ ![Mobile](assets/images/lighthouse-tests/index-pg-lh-mb.png) 
+
+ ## Gallery
+
+ ![Desktop](assets/images/lighthouse-tests/gallery-pg-lt-d.png)
+
+ ![Mobile](assets/images/lighthouse-tests/gallery-pg-lh.png)
+
+ ## Contact page
+ ![Desktop](assets/images/lighthouse-tests/contact-pg-d-lh.png)
+
+ ![Mobile](assets/images/lighthouse-tests/contact-pg-mobile-lh.png)
   
  ### Unfixed Bugs 
   
@@ -82,6 +99,7 @@
 
  The index page, I would like to have figured out a way to have the dog be the central focus of the photo across all devices, using flexbox, the image is shifting in place depending on the device used.   
  I had originally built the site desktop first and in learning more about responsive design, I realise from the project outset, I should build mobile first and work out as it is easier to deal with issues in that manner. 
+
   
  ## Deployment 
   
