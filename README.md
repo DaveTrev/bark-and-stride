@@ -114,7 +114,7 @@
  - As a guide to building up a responsive hero image the following links were used to learn how to use flex box [Codepen](https://codepen.io/njericooper/pen/NVRQLe) 
  - (https://nicolaslule.com/responsive-full-width-hero-image-using-flex/) 
  - (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
- - Using the follwoing guide to help create a responsive navigation bar and using the lessons learned to create a responsive footer to match (https://adiati.com/how-to-create-a-responsive-navigation-bar-with-flexbox-and-media-queries)
+ - Using the following guide to help create a responsive navigation bar and using the lessons learned to create a responsive footer to match (https://adiati.com/how-to-create-a-responsive-navigation-bar-with-flexbox-and-media-queries)
  - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/) 
  - Created responsive mockups with [amiresponsive] (https://ui.dev/amiresponsive)
   
