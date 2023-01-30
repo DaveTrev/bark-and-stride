@@ -8,13 +8,15 @@
  [View the live site here] (https://davetrev.github.io/bark-and-stride/)
   
  ## Features   
-  
+
  ### Existing Features 
   
  - __Navigation Bar__ 
   
    - Featuring on all three pages, a fullly responsive navigation bar. It includes a logo, links to the Home page, Gallery and Contact page. It is identical in each page to allow for easy navigation for the user.
-   - This section allows each user to easiliy navigate from each page across all devices without having to revert back to the previous page via the 'back' button.  
+   - This section allows each user to easiliy navigate from each page across all devices without having to revert back to the previous page via the 'back' button.
+   - The header, nav bar and the rest of the site, use the google fonts "Coustard and Heebo". Coustard was used as the main logo typeface to create a friendly, nearly whimsical feeling for users.
+   - Using a underline feature on the nav bar, its used to help the user quickly identify which page they are currently using
   
  ![Nav Bar](assets/images/mockup-image/nav-bar.png) 
   
@@ -23,6 +25,7 @@
    - The landing includes a photograph with text overlay to allow the user to see a aspirational scene of a happy dog relaxing in a park/ forest scene.
    - This section introduces the user to Bark & Stride with a large high impact image, grabbing the attention of dog owners.
    - the image is selected to create a connection with the users/customers and the service being offered
+   - The image is in a fixed position, various styles of a scrolling image was used but for responsive design, the fixed postion lead to better styling
   
  ![Landing Page](assets/images/mockup-image/hero.png) 
   
@@ -30,6 +33,9 @@
   
    - The about section will allow the user to see the benefits of availing of the services of Bark & Stride, what services are offered and the areas covered
    - This user will see the value of contacting and availing of the service, to engage the dog owner with not just dog walking services but also the love of animals from the service but also trustworthiness.
+   - Using a combination of different settings and breeds of dogs are used to keep the design interesting but again to create a sense of connection with the user.
+   - Divided up into three paragraphs with a corresponding image for each paragraph
+   - Each paragraph details the services offered by the service.
   
  ![Index page / About section](assets/images/mockup-image/index-page-layout.png) 
   
@@ -44,28 +50,46 @@
   
  - __Gallery__ 
   
-   - The gallery will provide the user with supporting images to see aspirational images of happy dogs on walks, as the business grows, I would plan to add testimonials of happy customers but also bios of staff and pups that use the service
+   - The gallery section will provide the user with supporting images to see aspirational images of happy dogs on walks, as the business grows, I would plan to add testimonials of happy customers but also bios of staff and pups that use the service
    - At present, at the top of the gallery page, I have placed some simple tweet reviews from customers, again looking to build a connection for the buisness and their target market.
    - This section is valuable to the user as they can identify with what they want for their pet and can identify with the service offered
-  
   
  ![Gallery](assets/images/mockup-image/gallery.png) 
   
  - __The Contact Page__ 
   
    - This page will allow the user to contact the business owner to arrange walks for their dog and to send queries regarding the service.
-  
- ![Sign Up](assets/images/mockup-image/contact.png) 
-  
+   - When the contact form is filled in and submitted it links to a simple success page. No Data is sent as this is a project at present.
 
+ ![Sign Up](assets/images/mockup-image/contact.png) 
+
+ - __The Success Page__ 
+
+ - When a user fills in their details, they are directed to a simple success page. It is used to confirm to the user that their details have been successfully sent.
+ - The user still has access to both the nav bar and footer to navigate around the site and external links.
+  
+ ![Sign Up](assets/images/mockup-image/contact.png)
+
+ ### Existing features
+
+ - Responsive design that looks good on screen widths from 320px and up.
+ - All external links opens in new tabs and has proper aria labels.
+ - Sign up that links to a success page for the user.
   
  ### Features Left to Implement 
   
  - On the gallery page I would like to add a section of "Favourite dogs" or "Dog of the month", highlighting happy dogs and little bios on each pet.
  - Adding a map of nearby parks that are used.
  - Adding video content of dogs engaged with the walker and the surrounding area via youtube links
+ - As the site is a simple three page static site, I have not created a 404 page, in the future as the features expand with potential for dead links, a 404 page will be created.
   
- ## Testing  
+ ## Testing 
+
+ - All pages have been thoroughly tested for screen sizes from 320px and up.
+ - Chrome developer tools to check pages resonsiveness, Firefox, desktop pc, Ipad and android phone used to test the site.
+ - The site is responsive on all screen sizes, no images are pixelated or stretched. No elements overlap.
+ - I have tested that every link on the site works as intended, opens in the correct tab and if using a external link, opens to a new browser tab.
+
 
  ### Validator Testing  
   
@@ -92,6 +116,8 @@
  ![Desktop](assets/images/lighthouse-tests/contact-pg-d-lh.png)
 
  ![Mobile](assets/images/lighthouse-tests/contact-pg-mobile-lh.png)
+
+
   
  ### Unfixed Bugs 
   
@@ -139,6 +165,7 @@
  ### Media 
   
  - All images were taken from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/)
+ - Fonts - Coustard and Heebo, taken from Google fonts
 
 
 
