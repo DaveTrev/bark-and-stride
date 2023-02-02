@@ -6,7 +6,48 @@
  ****** 
  ![Responsive Mockup](assets/images/mockup-image/amiresponsive-day.png)
  [View the live site here] (https://davetrev.github.io/bark-and-stride/)
-  
+
+ ### Project Goals
+ - Help local pet owners access a dog walking service
+ - Learn more about the ethos of the service
+ - Contact the local dog walker to engage in their services
+
+ ### Website Owner Goals
+ - Reach the target audience
+ - Increase engagment and build a small business
+ - Have a method of direct interaction with the customer  
+
+ ## User experience
+ ### Target audience
+ This website is created with the follwoing target audience in mind:
+ - A Dog owner in north county Dublin
+ - People looking for a dog walking service
+ - Customers looking for services such as dog sitting or doggy day care
+
+ ### User requirments or expectations
+ - A simple website to navigate around
+ - Easy to find information
+ - Social media links directing to further content and information
+ - Clear presentation of content
+
+
+ ## Design
+ - The website was designed with a simple layout and navigation to direct customers to contacting the service
+ - Using images to aid creating a better connection with their pet and the services offered
+ - The colour and font choices aimed to create a friendly, relaxed feel.  
+
+ ## Technologies Used
+ The following languages were used to develop the website:
+ - HTML
+ - CSS
+ ### Frameworks and Tools
+The following frameworks and tools were used to develop the website:
+- Git
+- Github
+- Gitpod
+- Google Fonts
+- Font Awesome
+
  ## Features   
 
  ### Existing Features 
@@ -68,7 +109,14 @@
  - When a user fills in their details, they are directed to a simple success page. It is used to confirm to the user that their details have been successfully sent.
  - The user still has access to both the nav bar and footer to navigate around the site and external links.
   
- ![Sign Up](assets/images/mockup-image/contact.png)
+ ![Sign Up - Success](assets/images/mockup-image/contact.png)
+
+- __The 404 Page__ 
+
+ - If a user tries to navigate to a page that does not exist, they will find a 404 page which will help them navigate back to a relevant page
+ - Both the Nav bar and footer are present, along side a highlighted link to help them return to the index page
+  
+ ![404](assets/images/mockup-image/404.png)
 
  ### Existing features
 
