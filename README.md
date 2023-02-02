@@ -117,7 +117,6 @@
 
  ![Mobile](assets/images/lighthouse-tests/contact-pg-mobile-lh.png)
 
-
   
  ### Unfixed Bugs 
   
@@ -166,6 +165,7 @@
   
  - All images were taken from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/)
  - Fonts - Coustard and Heebo, taken from Google fonts
+ - Footer icons taken from [Font-Awesome](https://fontawesome.com/icons)
 
 
 

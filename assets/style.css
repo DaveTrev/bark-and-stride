@@ -203,16 +203,14 @@ h2 {
 
   /* used https://codepen.io/paulobrien/pen/baobra as a guide to align flexbox row */
 
-  .contact-text {
-    text-align: justify;
-  }
+ 
 
   .title {
     padding-top: 100px;
     padding-left: 10px;
   }
   .contact-row {
-    display: flex;
+  display: flex;
 	justify-content:space-around;
 	padding:25px 0 ;
 	max-width:1280px;
