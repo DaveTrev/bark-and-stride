@@ -166,6 +166,7 @@ The following frameworks and tools were used to develop the website:
  ![Mobile](assets/images/lighthouse-tests/contact-pg-mobile-lh.png)
 
   
+  
  ### Unfixed Bugs 
   
  While trying to build a website that is responsive across all devices, using the dimensions of a galaxy fold, the break point of 280 px in width would cause a gap on the right side of the screen. the image sizing and media queries need to address this.
