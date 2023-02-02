@@ -97,7 +97,6 @@ nav a:hover, nav a:focus {
   padding-left: 50px;
 }
 
-
 /*footer*/
 
 .container {
@@ -149,7 +148,6 @@ footer #copyright {
 footer a:hover, footer a:focus {
     color: antiquewhite;
 }
-
 
 /* Gallery */
 
@@ -212,7 +210,7 @@ h2 {
   .title {
     padding-top: 100px;
     padding-left: 10px;
-}
+  }
   .contact-row {
     display: flex;
 	justify-content:space-around;
@@ -324,7 +322,6 @@ h2 {
     cursor: pointer;
   }
  
-
 /* signed-up page */
 
 #submission-container {
@@ -334,10 +331,6 @@ h2 {
   padding-top: 420px;
   padding-bottom: 420px;
 }
-
-
-
-
 
 /* media queries */
 
