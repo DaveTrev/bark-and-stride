@@ -109,7 +109,7 @@ The following frameworks and tools were used to develop the website:
  - When a user fills in their details, they are directed to a simple success page. It is used to confirm to the user that their details have been successfully sent.
  - The user still has access to both the nav bar and footer to navigate around the site and external links.
   
- ![Sign Up - Success](assets/images/mockup-image/contact.png)
+ ![Sign Up - Success](assets/images/mockup-image/success.png)
 
 - __The 404 Page__ 
 
@@ -164,12 +164,13 @@ The following frameworks and tools were used to develop the website:
  ![Desktop](assets/images/lighthouse-tests/contact-pg-d-lh.png)
 
  ![Mobile](assets/images/lighthouse-tests/contact-pg-mobile-lh.png)
-
-  
+ 
   
  ### Unfixed Bugs 
   
  While trying to build a website that is responsive across all devices, using the dimensions of a galaxy fold, the break point of 280 px in width would cause a gap on the right side of the screen. the image sizing and media queries need to address this.
+
+ In future versions I would aim to massivily increase lighthouse scoring.
 
  The index page, I would like to have figured out a way to have the dog be the central focus of the photo across all devices, using flexbox, the image is shifting in place depending on the device used.   
  I had originally built the site desktop first and in learning more about responsive design, I realise from the project outset, I should build mobile first and work out as it is easier to deal with issues in that manner. 
