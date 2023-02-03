@@ -4,7 +4,7 @@
  Offering a wide range of services for the dog owner who is short on time but want to give their pet the very best. 
   
  ****** 
- ![Responsive Mockup](assets/images/mockup-image/amiresponsive-day.png)
+ ![Responsive Mockup](readme-files/amiresponsive-day.png)
  [View the live site here] (https://davetrev.github.io/bark-and-stride/)
 
  ### Project Goals
@@ -36,17 +36,24 @@
  - Using images to aid creating a better connection with their pet and the services offered
  - The colour and font choices aimed to create a friendly, relaxed feel.  
 
+ ### Colours used
+ ![Background](readme-files/color-picker-1.png)
+
+ ![Body](readme-files/color-picker-2.png)
+ 
+
  ## Technologies Used
  The following languages were used to develop the website:
  - HTML
  - CSS
+
  ### Frameworks and Tools
-The following frameworks and tools were used to develop the website:
-- Git
-- Github
-- Gitpod
-- Google Fonts
-- Font Awesome
+ The following frameworks and tools were used to develop the website:
+ - Git
+ - Github
+ - Gitpod
+ - Google Fonts
+ - Font Awesome
 
  ## Features   
 
@@ -59,7 +66,7 @@ The following frameworks and tools were used to develop the website:
    - The header, nav bar and the rest of the site, use the google fonts "Coustard and Heebo". Coustard was used as the main logo typeface to create a friendly, nearly whimsical feeling for users.
    - Using a underline feature on the nav bar, its used to help the user quickly identify which page they are currently using
   
- ![Nav Bar](assets/images/mockup-image/nav-bar.png) 
+ ![Nav Bar](readme-files/nav-bar.png) 
   
  - __The landing page image__ 
   
@@ -68,7 +75,7 @@ The following frameworks and tools were used to develop the website:
    - the image is selected to create a connection with the users/customers and the service being offered
    - The image is in a fixed position, various styles of a scrolling image was used but for responsive design, the fixed postion lead to better styling
   
- ![Landing Page](assets/images/mockup-image/hero.png) 
+ ![Landing Page](readme-files/hero.png) 
   
  - __About Section__ 
   
@@ -78,7 +85,7 @@ The following frameworks and tools were used to develop the website:
    - Divided up into three paragraphs with a corresponding image for each paragraph
    - Each paragraph details the services offered by the service.
   
- ![Index page / About section](assets/images/mockup-image/index-page-layout.png) 
+ ![Index page / About section](readme-files/index-page-layout.png) 
   
    
  - __The Footer__  
@@ -87,7 +94,7 @@ The following frameworks and tools were used to develop the website:
    - The footer section includes links to the relevant social media sites for Bark & Stride. The links will open to a new tab to allow easy navigation for the user.  
    - The footer is valuable to the user as it encourages them to keep connected via social media
   
-![Footer](assets/images/mockup-image/footer.png) 
+ ![Footer](readme-files/footer.png) 
   
  - __Gallery__ 
   
@@ -95,28 +102,28 @@ The following frameworks and tools were used to develop the website:
    - At present, at the top of the gallery page, I have placed some simple tweet reviews from customers, again looking to build a connection for the buisness and their target market.
    - This section is valuable to the user as they can identify with what they want for their pet and can identify with the service offered
   
- ![Gallery](assets/images/mockup-image/gallery.png) 
+ ![Gallery](readme-files/gallery.png) 
   
  - __The Contact Page__ 
   
    - This page will allow the user to contact the business owner to arrange walks for their dog and to send queries regarding the service.
    - When the contact form is filled in and submitted it links to a simple success page. No Data is sent as this is a project at present.
 
- ![Sign Up](assets/images/mockup-image/contact.png) 
+ ![Sign Up](readme-files/contact.png) 
 
  - __The Success Page__ 
 
  - When a user fills in their details, they are directed to a simple success page. It is used to confirm to the user that their details have been successfully sent.
  - The user still has access to both the nav bar and footer to navigate around the site and external links.
   
- ![Sign Up - Success](assets/images/mockup-image/success.png)
+ ![Sign Up - Success](readme-files/success.png)
 
 - __The 404 Page__ 
 
  - If a user tries to navigate to a page that does not exist, they will find a 404 page which will help them navigate back to a relevant page
  - Both the Nav bar and footer are present, along side a highlighted link to help them return to the index page
   
- ![404](assets/images/mockup-image/404.png)
+ ![404](readme-files/404.png)
 
  ### Existing features
 
@@ -150,20 +157,20 @@ The following frameworks and tools were used to develop the website:
 
  ## Index page 
  
- ![Desktop](assets/images/lighthouse-tests/index-page-lighthouse.png) 
+ ![Desktop](readme-files/lighthouse-tests/index-page-lighthouse.png) 
  
- ![Mobile](assets/images/lighthouse-tests/index-pg-lh-mb.png) 
+ ![Mobile](readme-files/lighthouse-tests/index-pg-lh-mb.png) 
 
  ## Gallery
 
- ![Desktop](assets/images/lighthouse-tests/gallery-pg-lt-d.png)
+ ![Desktop](readme-files/lighthouse-tests/gallery-pg-lt-d.png)
 
- ![Mobile](assets/images/lighthouse-tests/gallery-pg-lh.png)
+ ![Mobile](readme-files/lighthouse-tests/gallery-pg-lh.png)
 
  ## Contact page
- ![Desktop](assets/images/lighthouse-tests/contact-pg-d-lh.png)
+ ![Desktop](readme-files/lighthouse-tests/contact-pg-d-lh.png)
 
- ![Mobile](assets/images/lighthouse-tests/contact-pg-mobile-lh.png)
+ ![Mobile](readme-files/lighthouse-tests/contact-pg-mobile-lh.png)
  
   
  ### Unfixed Bugs 
